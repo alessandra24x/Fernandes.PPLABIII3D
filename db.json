@@ -1,0 +1,37 @@
+{
+  "anuncios": [
+    {
+      "titulo": "Gatitu",
+      "transaccion": "venta",
+      "descripcion": "Miau Miau Miau Miau",
+      "precio": "500",
+      "animal": "Gato",
+      "raza": "mestizo",
+      "fecha": "24/10/2020",
+      "vacuna": "No",
+      "id": 1
+    },
+    {
+      "titulo": "Perrita",
+      "transaccion": "venta",
+      "descripcion": "Guau Guau Guau Guau",
+      "precio": "20",
+      "animal": "Perro",
+      "raza": "mestizo",
+      "fecha": "24/10/2020",
+      "vacuna": "Si",
+      "id": 2
+    },
+    {
+      "titulo": "michi",
+      "transaccion": "venta",
+      "descripcion": "bonito",
+      "precio": "100",
+      "animal": "Gato",
+      "raza": "mestizo",
+      "fecha": "20/10/2020",
+      "vacuna": "Si",
+      "id": 3
+    }
+  ]
+}
